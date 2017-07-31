@@ -1,16 +1,17 @@
-# Phil's Forilicsome Plugins of Impracticality
+# Phil's Frolicsome Plugins of Impracticality
 Looking for top quality SourceMod plugins? You've come to the wrong place!
 Enjoy these mischievous scripts I've written over the years I now use to agitate my players.
-This is used to serve me pretty much, I never planned on publishing any of these and never will outside this repository.
+I never plan on publishing any of these and most likely never will outside this repository, so enjoy rifling through it.
 
-_NOTE:_ There are more uncomiled sources than plugins.
+_NOTE:_ There are more uncompiled sources than plugins, so don't miss out!
 
 * admingrab
 	* Edited version of [admingrab by friagram](https://forums.alliedmods.net/showthread.php?p=1946774).
 	* Adds a beam connecting your grabbed entity.
+	* Also it changes colors woooo..
 
 * army
-	* Set up a managable army of whatevers.
+	* Set up a manageable army of whatevers.
 	* Too dumb to document, sorry.
 
 * berserk
@@ -47,7 +48,7 @@ _NOTE:_ There are more uncomiled sources than plugins.
 	* You should use it.
  
  * goto
-	* Goto's a player.
+	* Goto's you to a player.
 	* This isn't usless, what is it doing here?
 
 * hackmanager
@@ -65,7 +66,7 @@ _NOTE:_ There are more uncomiled sources than plugins.
 	* I despise lennies.
 
 * pissnuke
-	* Turns jarate into nuke with selectable models and all.
+	* Turns jarate into nuke with selectable models and stuff.
 
 * playerboss
 	* Turns you into a boss.
@@ -85,7 +86,7 @@ _NOTE:_ There are more uncomiled sources than plugins.
 	* Smite players with mighty thunder.
 
 * SRSMagic
-	* Use voicecommands while performing Second Rate Sorcery taunt to do magic.
+	* Use voicecommands while performing Second Rate Sorcery taunt to do actual magic.
 
 * tauntspeed
 	* Adjust your tauntspeed.
@@ -95,4 +96,4 @@ _NOTE:_ There are more uncomiled sources than plugins.
 	* Scale your torso up and down like there's no tomorrow.
 
 
-I just hope maybe one day these plugins won't be so useless. Feel free to use them in any way you want.
+Maybe one day these plugins will serve some one a purpouse... maybe... Feel free to use them in any way you want.
